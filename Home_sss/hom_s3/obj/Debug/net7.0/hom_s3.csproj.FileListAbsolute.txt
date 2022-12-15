@@ -1,0 +1,15 @@
+C:\Users\hp\Home_sss\hom_s3\bin\Debug\net7.0\hom_s3.exe
+C:\Users\hp\Home_sss\hom_s3\bin\Debug\net7.0\hom_s3.deps.json
+C:\Users\hp\Home_sss\hom_s3\bin\Debug\net7.0\hom_s3.runtimeconfig.json
+C:\Users\hp\Home_sss\hom_s3\bin\Debug\net7.0\hom_s3.dll
+C:\Users\hp\Home_sss\hom_s3\bin\Debug\net7.0\hom_s3.pdb
+C:\Users\hp\Home_sss\hom_s3\obj\Debug\net7.0\hom_s3.csproj.AssemblyReference.cache
+C:\Users\hp\Home_sss\hom_s3\obj\Debug\net7.0\hom_s3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Home_sss\hom_s3\obj\Debug\net7.0\hom_s3.AssemblyInfoInputs.cache
+C:\Users\hp\Home_sss\hom_s3\obj\Debug\net7.0\hom_s3.AssemblyInfo.cs
+C:\Users\hp\Home_sss\hom_s3\obj\Debug\net7.0\hom_s3.csproj.CoreCompileInputs.cache
+C:\Users\hp\Home_sss\hom_s3\obj\Debug\net7.0\hom_s3.dll
+C:\Users\hp\Home_sss\hom_s3\obj\Debug\net7.0\refint\hom_s3.dll
+C:\Users\hp\Home_sss\hom_s3\obj\Debug\net7.0\hom_s3.pdb
+C:\Users\hp\Home_sss\hom_s3\obj\Debug\net7.0\hom_s3.genruntimeconfig.cache
+C:\Users\hp\Home_sss\hom_s3\obj\Debug\net7.0\ref\hom_s3.dll

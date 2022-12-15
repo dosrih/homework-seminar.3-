@@ -1,0 +1,15 @@
+C:\Users\hp\Home_sss\hom_s1\bin\Debug\net7.0\hom_s1.exe
+C:\Users\hp\Home_sss\hom_s1\bin\Debug\net7.0\hom_s1.deps.json
+C:\Users\hp\Home_sss\hom_s1\bin\Debug\net7.0\hom_s1.runtimeconfig.json
+C:\Users\hp\Home_sss\hom_s1\bin\Debug\net7.0\hom_s1.dll
+C:\Users\hp\Home_sss\hom_s1\bin\Debug\net7.0\hom_s1.pdb
+C:\Users\hp\Home_sss\hom_s1\obj\Debug\net7.0\hom_s1.csproj.AssemblyReference.cache
+C:\Users\hp\Home_sss\hom_s1\obj\Debug\net7.0\hom_s1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Home_sss\hom_s1\obj\Debug\net7.0\hom_s1.AssemblyInfoInputs.cache
+C:\Users\hp\Home_sss\hom_s1\obj\Debug\net7.0\hom_s1.AssemblyInfo.cs
+C:\Users\hp\Home_sss\hom_s1\obj\Debug\net7.0\hom_s1.csproj.CoreCompileInputs.cache
+C:\Users\hp\Home_sss\hom_s1\obj\Debug\net7.0\hom_s1.dll
+C:\Users\hp\Home_sss\hom_s1\obj\Debug\net7.0\refint\hom_s1.dll
+C:\Users\hp\Home_sss\hom_s1\obj\Debug\net7.0\hom_s1.pdb
+C:\Users\hp\Home_sss\hom_s1\obj\Debug\net7.0\hom_s1.genruntimeconfig.cache
+C:\Users\hp\Home_sss\hom_s1\obj\Debug\net7.0\ref\hom_s1.dll
